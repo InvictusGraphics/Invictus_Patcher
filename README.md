@@ -1,10 +1,16 @@
-## Texture Pack Patcher
+## Invictus Patcher
 
 * * *
 
-To use this project, just clone the repository.
+This is a fork of the [Soartex Texture Patcher](https://github.com/Soartex-Fanver/Texture-Patcher)
 
-__This project is compatible with Java 6 and up.__
+*Goals of Project:*
+
+* Allow for patcher to work of github
+* Integrate new json format
+* Clean old code
+* Add a new skin for invictus
+* Restore to formal glory
 
 * * *
 
